@@ -1,0 +1,24 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Krishna",
+            "age":20
+        },
+        {
+            "id":2,
+            "name":"Radha",
+            "age":21
+        },
+        {
+            "id":3,
+            "name":"Rukmani",
+            "age":22
+        },
+        {
+            "id":1,
+            "name":"Meera",
+            "age":19
+        }
+    ]
+}
